@@ -20,13 +20,13 @@ Frontend
  ```
 
 # Tecnoligias usadas
-Backend
+- Backend
     - Django Rest Framework
     - django-cors-headers
     - python-decouple (Manejo de las variables de entorno)
     - mod_wsgi (Necesario para Apache)
 
-Frontend
+- Frontend
     - Vite
     - Axios
     - File-saver
